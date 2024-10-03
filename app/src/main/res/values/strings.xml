@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Weather with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="location_placeholder">Enter a valid city name - e.g. London</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
